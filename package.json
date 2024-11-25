@@ -29,7 +29,7 @@
     "fp-ts": "^2.2.0",
     "io-ts": "^2.0.1",
     "kuromoji": "^0.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "node-opus": "^0.3.3",
     "npm-run-all": "^4.1.5",
     "rxjs": "^6.5.3",
@@ -37,7 +37,7 @@
     "twit": "^2.2.11",
     "typescript": "^3.7.2",
     "wikijs": "^6.0.1",
-    "yargs-parser": "^16.1.0"
+    "yargs-parser": "^18.1.1"
   },
   "devDependencies": {
     "@types/jest": "^24.0.23",
